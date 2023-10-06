@@ -23,6 +23,13 @@ public class Calculator{
 		
 	}
 	
+	public void div(int v1,int v2){
+		
+		System.out.println(v1/v2);
+		
+	}
+	
+	
 	public static void main(String[] args){
 		
 		Calculator c = new Calculator();
